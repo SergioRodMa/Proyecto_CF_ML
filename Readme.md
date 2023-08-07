@@ -16,7 +16,7 @@ El conjunto de datos se puede consultar [Aqui](https://www.kaggle.com/datasets/m
 ## 🔗 Link importantes 
 1. [Link de la data del proyecto](codigo/data/creditcard.csv)
 2. [Notebook del proyecto con el procedimiento detallado](https://nbviewer.org/github/SergioRodMa/Proyecto_CF_ML/blob/main/codigo/Fraude_ML.ipynb)
-2. [PDF presentación del proyecto](Presentacion_Credit_card)
+2. [PDF presentación del proyecto](Presentacion_Credit_card.pdf)
 3. [Link a la aplicacion de Streamlite](https://fraude.streamlit.app/)
 4. [Link al API del modelo](https://fastapimlcf.ue.r.appspot.com/info)
 
