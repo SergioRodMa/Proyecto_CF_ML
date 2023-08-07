@@ -24,6 +24,8 @@ columnas=["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10", "V11", "V
 #model = joblib.load('xgbpipe.joblib')
 st.title('¿Esta transaccion es fraudulenta? :credit_card: :money_with_wings:')
 
+st.subheader('Llena el siguiente formulario y descubrelo')
+
 st.markdown('Variables Anonimas a llenar :currency_exchange:')
 
 
