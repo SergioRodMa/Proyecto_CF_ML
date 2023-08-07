@@ -1,5 +1,5 @@
 # Fronted del proyecto de fraudes en tarjetas de credito 💰
-la interfaz a la cual puedes acceder [aqui](https://fraude.streamlit.app/), fue creada utilizando Streamlite 📈 esta tiene la siguiente estructura
+la interfaz a la cual puedes acceder [aqui](https://fraude.streamlit.app/) , fue creada utilizando Streamlite 📈 esta tiene la siguiente estructura
 
 ![App_parte1](../Figures/app_1.PNG)
 
