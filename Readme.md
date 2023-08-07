@@ -20,3 +20,4 @@ El conjunto de datos se puede consultar [Aqui](https://www.kaggle.com/datasets/m
 3. [Link a la aplicacion de Streamlite](https://fraude.streamlit.app/)
 4. [Link al API del modelo](https://fastapimlcf.ue.r.appspot.com/info)
 
+Creado por Sergio Maldonado Rodriguez
